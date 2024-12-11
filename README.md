@@ -4,13 +4,11 @@ A Unity 6 project by Anne CH Postma, D:DREAMS Studio
 ## ABOUT
 In December 2024 my mother became 80. To celebrate this, I created a little online birthday celebration project. After I finished it, I decided to clean it up and make it publicly available on GitHub. The project contains two scenes:
 
-1) **Fijne Verjaardag**
-    this scene ...
+1) **Fijne Verjaardag**<br>this scene ...
     - plays a typical Dutch Northern Brabant song (AI generated)
     - has 99 balloons (a playful reference to 99 Luftballons by Nena) in original Dutch flag and pennant colors floating upwards
     - display Dutch happy birthday texts in random order at certain intervals
-2) **Happy Birthday**
-    this scene ...
+2) **Happy Birthday**<br>this scene ...
     - plays 5 happy birthday songs (AI generated) in random order
     - has 99 (a playful reference to 99 Luftballons by Nena) emoji balloons floating upwards
     - display happy birthday texts (out of 225 languages) in random order at certain intervals

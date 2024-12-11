@@ -1,0 +1,34 @@
+.FullScreenContainer {
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+}
+
+.Button {
+    -unity-font-definition: resource('Fonts/Parkinsans/Fonts/Parkinsans Bold SDF');
+    width: 15%;
+    height: 1%;
+    padding-top: 1.8%;
+    padding-bottom: 1.8%;
+    align-self: center;
+    background-color: rgb(255, 255, 255);
+    color: rgb(16, 32, 96);
+    font-size: 200%;
+    border-left-color: #000;
+    border-right-color: #000;
+    border-top-color: #000;
+    border-bottom-color: #000;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+.HappyBirthdayText {
+    align-self: center;
+    -unity-font-definition: resource('Fonts/Parkinsans/Fonts/Parkinsans Extra Bold SDF');
+    font-size: 350%;
+    color: rgb(255, 255, 255);
+    -unity-text-outline-width: 2px;
+    -unity-text-outline-color: #000;
+}
